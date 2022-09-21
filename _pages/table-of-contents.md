@@ -1,9 +1,11 @@
 ---
 layout: collection
-title: "Learn bioinformatics"
+title: "Choose a topic to learn"
 permalink: /table-of-contents/
+classes: wide
 ---
 
-The course is divided up into the following sections:
-- [Amino acids](/amino-acids/)
+Choose one of the following topics and begin learning with **Learnbioinfo.com**:
+- [Biostatistics](/landing-biostatistics)
+- [Bioinformatics](/landing-bioinformatics)
 
