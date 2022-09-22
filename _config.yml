@@ -45,8 +45,9 @@ include:
 
 collections_dir: site-collections
 collections:
-  - amino-acids
-  - biostatistics
+  biostatistics:
+    output: true
+    sort_by: number
 
 
 # Exclude from processing.
