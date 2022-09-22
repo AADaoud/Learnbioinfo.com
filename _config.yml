@@ -21,7 +21,7 @@
 title: Learnbioinfo.com
 subtitle: Bioinformatics made simple
 email: abdullah.daoud@live.acibadem.edu.tr
-description: >- # this means to ignore newlines until "baseurl:"
+description: A comprehensive resource for learning biostatistics and bioinformatics. # this means to ignore newlines until "baseurl:"
   
 # Don't forget to uncomment the 2 lines below.
 # the subpath of your site, e.g. /blog
