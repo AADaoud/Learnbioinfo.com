@@ -1,67 +1,67 @@
 var store = [{
-        "title": "3 - Hypothesis testing: One sample",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
+        "title": "1 - Welcome to Statistics",
+        "excerpt":"Traders stand in disbelief on the floor of the New York Stock Exchance during the 2008 financial crisis, with a 1,817.19 point fall in the DJIA, and a catastrophic 2,000+ point loss in the S&amp;P 500, perhaps there was nothing better to do. “There are lies, damned lies, and statistics”...","categories": [],
         "tags": [],
-        "url": "/biostatistics/HT1S.html",
+        "url": "/biostatistics/01.html",
         "teaser": null
       },{
-        "title": "5 - Hypothesis testing: All the samples! (>2)",
+        "title": "2 - Remember Highschool Math Class?",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/HT2+S.html",
+        "url": "/biostatistics/02.html",
         "teaser": null
       },{
-        "title": "4 - Hypothesis testing: Two samples",
+        "title": "3 - Hypothesis Testing: One Sample",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/HT2S.html",
+        "url": "/biostatistics/03.html",
         "teaser": null
       },{
-        "title": "6 - Hypothesis testing: Categorical outcomes",
+        "title": "4 - Hypothesis Testing: Two Samples",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/HTCO.html",
+        "url": "/biostatistics/04.html",
         "teaser": null
       },{
-        "title": "7 - Welcome to Psychology: Non-parametric tests",
+        "title": "5 - Hypothesis Testing: All the Samples! (>2)",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/HTNP.html",
+        "url": "/biostatistics/05.html",
         "teaser": null
       },{
-        "title": "2 - Remember highschool math class?",
+        "title": "6 - Hypothesis Testing: Categorical Outcomes",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/foundational-info/",
+        "url": "/biostatistics/06.html",
         "teaser": null
       },{
-        "title": "1 - Welcome to statistics",
+        "title": "7 - Welcome to Psychology: Non-parametric Tests",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/intro.html",
+        "url": "/biostatistics/07.html",
         "teaser": null
       },{
-        "title": "8 - Linear regressions and their uses",
+        "title": "8 - Linear Regressions and Their Uses",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/linear-regression.html",
+        "url": "/biostatistics/08.html",
         "teaser": null
       },{
-        "title": "9 - Cephalgia: Logistic and Poisson regressions",
+        "title": "9 - Cephalgia: Logistic and Poisson Regressions",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/logistic-poisson.html",
+        "url": "/biostatistics/09.html",
         "teaser": null
       },{
-        "title": "10 - Sampling methods & missing data",
+        "title": "10 - Sampling Methods & Missing Data",
         "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
-        "url": "/biostatistics/missing-data-sampling-methods.html",
+        "url": "/biostatistics/10.html",
         "teaser": null
       },{
-        "title": "11 - Power! Analysis and sample size calculations",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
+        "title": "11 - Power! Analysis and Sample Size Calculations",
+        "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/biostatistics/sample-size-and-power-analysis.html",
+        "url": "/biostatistics/11.html",
         "teaser": null
       },]

@@ -47,7 +47,7 @@ collections_dir: site-collections
 collections:
   biostatistics:
     output: true
-    sort_by: number
+    permalink: /:collection/:path/
 
 
 # Exclude from processing.
