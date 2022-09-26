@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "2 - Remember Highschool Math Class?",
-        "excerpt":" ","categories": [],
+        "excerpt":"The field of modern mathematical statistics was started by the mathematician and biostatistician Karl Pearson. The field of biostastics is a multi-disciplinary field that applies statistical concepts in the field of biology and medicine. The main driving concepts of biostatistics are the collection, storage, and analysis of data followed by...","categories": [],
         "tags": [],
         "url": "/biostatistics/02/",
         "teaser": null
@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "11 - Power! Analysis and Sample Size Calculations",
-        "excerpt":" ","categories": [],
+        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
         "tags": [],
         "url": "/biostatistics/11/",
         "teaser": null
