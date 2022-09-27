@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "2 - Remember Highschool Math Class?",
-        "excerpt":"The field of modern mathematical statistics was started by the mathematician and biostatistician Karl Pearson. The field of biostastics is a multi-disciplinary field that applies statistical concepts in the field of biology and medicine. The main driving concepts of biostatistics are the collection, storage, and analysis of data followed by...","categories": [],
+        "excerpt":"The field of modern mathematical statistics was founded by the mathematician and biostatistician Karl Pearson. The field of biostastics is a multi-disciplinary field that applies statistical concepts in the field of biology and medicine. The main driving concepts of biostatistics are the collection, storage, and analysis of data followed by...","categories": [],
         "tags": [],
         "url": "/biostatistics/02/",
         "teaser": null
