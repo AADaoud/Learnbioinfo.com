@@ -49,6 +49,9 @@ collections:
   biostatistics:
     output: true
     permalink: /:collection/:path/
+  bioinformatics:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Exclude from processing.

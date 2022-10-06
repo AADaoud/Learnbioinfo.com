@@ -12,56 +12,8 @@ var store = [{
         "teaser": null
       },{
         "title": "3 - Hypothesis Testing: One Sample",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
+        "excerpt":"The normal distribution, 95% of data points lie only 2 standard deviations away from the mean of a normally distributed dataset. D Wells, CC BY-SA 4.0, via Wikimedia Commons. What does height, birth weight, IQ, the income distribution in a particular country, and your performance in school have in common?...","categories": [],
         "tags": [],
         "url": "/biostatistics/03/",
-        "teaser": null
-      },{
-        "title": "4 - Hypothesis Testing: Two Samples",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/04/",
-        "teaser": null
-      },{
-        "title": "5 - Hypothesis Testing: All the Samples! (>2)",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/05/",
-        "teaser": null
-      },{
-        "title": "6 - Hypothesis Testing: Categorical Outcomes",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/06/",
-        "teaser": null
-      },{
-        "title": "7 - Welcome to Psychology: Non-parametric Tests",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/07/",
-        "teaser": null
-      },{
-        "title": "8 - Linear Regressions and Their Uses",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/08/",
-        "teaser": null
-      },{
-        "title": "9 - Cephalgia: Logistic and Poisson Regressions",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/09/",
-        "teaser": null
-      },{
-        "title": "10 - Sampling Methods & Missing Data",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/10/",
-        "teaser": null
-      },{
-        "title": "11 - Power! Analysis and Sample Size Calculations",
-        "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat...","categories": [],
-        "tags": [],
-        "url": "/biostatistics/11/",
         "teaser": null
       },]
