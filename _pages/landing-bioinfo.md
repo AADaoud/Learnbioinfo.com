@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Learn bioinformatics"
-permalink: /landing-bioinformatics/
+permalink: /bioinformatics/
 collection: bioinformatics
 sort_by: number
 ---

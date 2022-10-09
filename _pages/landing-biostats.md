@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Learn biostatistics"
-permalink: /landing-biostatistics/
+permalink: /biostatistics/
 collection: biostatistics
 sort_by: number
 ---
