@@ -6,6 +6,6 @@ classes: wide
 ---
 
 Choose one of the following topics and begin learning with **Learnbioinfo.com**:
-- [Biostatistics](/landing-biostatistics)
-- [Bioinformatics](/landing-bioinformatics)
+- [Biostatistics](/biostatistics)
+- [Bioinformatics](/bioinformatics)
 
